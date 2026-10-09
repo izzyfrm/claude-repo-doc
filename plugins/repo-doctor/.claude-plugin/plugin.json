@@ -1,0 +1,11 @@
+{
+  "name": "repo-doctor",
+  "version": "1.0.0",
+  "description": "Read-only repository health checks, structured code reviews, and release-readiness workflows for Claude Code.",
+  "author": {
+    "name": "Isaiah Boyd",
+    "url": "https://github.com/izzyfrm"
+  },
+  "repository": "https://github.com/izzyfrm/claude-repo-doctor",
+  "license": "MIT"
+}
